@@ -1,5 +1,5 @@
 # discord.js-Starter-Bot
-This is a free-to-use starter discord.js bot
+This is a free-to-use starter discord.js bot. Please follow the steps correctly to set up your very own bot in Discord! 🙂
 
 ## How do I set this up?
 First, you will need to download the latest version of Node.JS, which can be found here: https://nodejs.org/en/download/
