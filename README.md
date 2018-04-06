@@ -12,3 +12,5 @@ Once you've set up everything, just say (node mybot.js) and your bot should be u
 
 ## Can I use this?
 Of course you can! Improve on it, do anything you want. You don't have to credit me, but it'd be nice if you did. 🙂
+
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)
